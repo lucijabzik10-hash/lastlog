@@ -24,7 +24,7 @@ const client = new Client({
 const FARM_CHANNEL_ID = process.env.FARM_CHANNEL_ID;
 const HARVEST_ROLE_ID = process.env.HARVEST_ROLE_ID;
 const GUILD_ID = process.env.GUILD_ID;
-const HARVEST_CHANNEL_ID = "1487121637454381243";
+const HARVEST_CHANNEL_ID = "1487810730857074790";
 
 const GROW_TIME_MS = 5 * 1000;
 const activeTimers = new Map();
